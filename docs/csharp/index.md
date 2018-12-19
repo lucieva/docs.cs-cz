@@ -1,6 +1,6 @@
 ---
 title: Průvodce jazykem C#
-description: Zjistěte, jak průvodce jazyka C# vám může pomoct získat rozsáhlé znalosti jazyka C#, ať už jste nový vývojář nebo zkušený odborník.
+description: Zjistěte, jak vám průvodce jazykem C# může pomoct získat rozsáhlé znalosti o jazyce C#, ať už jste začátečník nebo zkušený odborník.
 ms.date: 01/30/2018
 ms.assetid: 52db8280-0e53-40cf-858b-e8eef3997dea
 helpviewer_keywords:
@@ -17,20 +17,20 @@ ms.locfileid: "53145657"
 ---
 # <a name="c-guide"></a>Průvodce jazykem C#
 
-Příručka jazyka C# obsahuje mnoho prostředků o jazyce C#. Tento web má mnoho různé skupiny uživatelů. V závislosti na vaše zkušenosti s programováním nebo pomocí jazyka C# a .NET můžete chtít prozkoumat různé oddíly této příručky.
+Průvodce jazykem C# nabízí mnoho výukových zdrojů o jazyce C#. Tato stránka je určena pro různé skupiny uživatelů. V závislosti na vašich zkušenostech s programováním v jazyce C# a s technologií .NET můžete chtít prozkoumat různé oddíly tohoto průvodce.
 
-* Pro vývojáře v úplně:
-  * Začněte [Úvod do C# kurzy](tutorials/intro-to-csharp/index.md). Tyto kurzy vám umožňují prozkoumat C# jazyk interaktivně v prohlížeči. Odtud můžete přesunout jiné [kurzy](tutorials/index.md). Tyto kurzy vám ukážou, jak vytvořit aplikace C# od začátku. V kurzech najdete podrobný postup vytváření programů. Zobrazí jazykové koncepty a jak vytvářet C# programy sami. Pokud dáváte přednost, nejprve čtení souhrnné informace, zkuste [prohlídka jazyka C#](tour-of-csharp/index.md). Vysvětluje koncepty jazyka C#. Po přečtení to, budete mít základní znalost jazyka a budete moct službu v kurzech nebo něco vytvořit sami.
+* Pro začínající vývojáře(ky):
+  * Začněte kurzy [Úvod do jazyka C#](tutorials/intro-to-csharp/index.md), ve kterých si můžete jazyk C# vyzkoušet interaktivně přímo v prohlížeči. Na úvodní kurzy navazuje další série [kurzů](tutorials/index.md), ve kterých se naučíte vytvořit aplikace v C# od úplného začátku. V kurzech najdete také podrobný postup vývoje programů, dozvíte se více o konceptu jazyka C#, a také o tom, jak můžete naprogramovat vlastní C# programy. Pokud se nejdříve chcete zaměřit na teorii, přečtěte si článek [Prohlídka jazyka C#](tour-of-csharp/index.md), který vysvětluje koncept jazyka C#. Po přečtení tohoto článku, budete mít základní znalost jazyka a budete ji moct převést do praxe. 
+  
+* Pro ty, kteří začínají s jazykem C#:
+  * Pokud jste zkušený(á) vývojář(ka), ale teprve začínáte s jazykem C#, přečtěte si článek [Prohlídka jazyka C#](tour-of-csharp/index.md). Tento článek popisuje základní syntaxe a strukturu jazyka C#. V našich [kurzech](tutorials/index.md) si můžete vyzkoušet základní programy jazyka C#.
 
-* Pro vývojáře nového jazyka C#:
-  * Pokud jste provedli před vývoje, ale teprve začínáte C#, přečtěte si [prohlídka jazyka C#](tour-of-csharp/index.md). Zahrnuje základní syntaxe a struktura jazyka a jazyk ji k kontrast C# můžete použít s jinými jazyky, které jste použili. Můžete také přejít [kurzy](tutorials/index.md) vyzkoušet základních programů jazyka C#.
+* Pro zkušené C# vývojáře(ky):
+  * Pokud jste jazyk C# už někdy použili, přečtěte si, co nabízí jeho aktuální verze v článku [Co je nového v jazyce C#](whats-new/index.md).
 
-* Zkušení C# vývojáře:
-  * Pokud jste použili C# před, začněte tím, co je v nejnovější verzi jazyka pro čtení. Podívejte se na [co je nového v jazyce C#](whats-new/index.md) nových funkcí v aktuální verzi.
+## <a name="how-the-c-guide-is-organized"></a>Jakým způsobem je organizován Průvodce jazykem C#
 
-## <a name="how-the-c-guide-is-organized"></a>Jakým způsobem je organizována Průvodce jazyka C#
-
-Existuje několik oddílů v příručce jazyka C#. Můžete číst je popořadě, nebo přejít přímo na co vás zajímá nejvíce. Oddíly jsou výrazně zaměřené na jazyk. Ostatní poskytují začátku do konce scénáře, které ukazují několik typů programů, které můžete vytvořit pomocí jazyka C# a rozhraní .NET Framework.
+Tento průvodce je rozdělen do několika oddílů. Můžete je číst postupně nebo přejít přímo na ten, který vás zajímá nejvíce. Některé oddíly jsou zaměřené převážně na jazyk C#. Ostatní oddíly popisují kompletní scénáře, které ukazují několik typů programů, které můžete vytvořit pomocí jazyka C# a rozhraní .NET Framework.
 
 * [Začínáme](getting-started/index.md)
   * Tato část popisuje, co potřebujete k instalaci pro C# prostředí pro vývoj na preferované platformě. Dalších tématech v této části popisují, jak vytvořit svůj první program C# v různých prostředích podporované.
